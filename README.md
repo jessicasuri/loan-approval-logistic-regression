@@ -1,7 +1,7 @@
 # Loan Approval Prediction using Logistic Regression
 
 ## Objective
-#The objective of this project is to build a Logistic Regression model to predict whether a loan application will be approved or rejected based on applicant details.
+The objective of this project is to build a Logistic Regression model to predict whether a loan application will be approved or rejected based on applicant details.
 
 -------------------------------------------------------------------------------------------
 
