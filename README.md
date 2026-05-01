@@ -42,6 +42,8 @@ The following steps were performed:
 ## Model Performance
 
 Accuracy: 87.5%
+Precision: 90.48%
+Recall: 86.36%
 
 The model performs well in predicting loan approval status using applicant financial and demographic details.
 
